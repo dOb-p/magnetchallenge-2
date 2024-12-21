@@ -21,13 +21,11 @@
 - 04-01-2025 Data for 10 Materials Available
 - 05-01-2025 1-Page Letter of Intent Due with Signature [PDF](docs/registration.pdf) 
 - 06-01-2025 2-Page Concept Proposal Due [PDF](docs/template.pdf) [DOC](docs/template.doc) [Latex](docs/ieeetran.zip)
-- 07-01-2025 Notification of Acceptance (all 39 teams accepted)
+- 07-01-2025 Notification of Acceptance
 - 08-01-2025 Expert Feedback on the Concept Proposal
-- Teams develop a semi/fully-automated software pipeline to process data and generate models for 10 materials
-- 11-01-2025 Preliminary Submission Due (postponed from 11-01-2023)
-- Teams use the previously developed software pipeline to process new data and generate models for 3 new materials
-- 12-24-2025 Final Submission Due (postponed from 12-24-2023)
-- 03-01-2026 APEC 2024 - Winner Announcement and Presentation
+- 11-01-2025 Preliminary Submission Due
+- 12-24-2025 Final Submission Due
+- 03-01-2026 Winners Selected
 
 ## Evaluation Timeline
 
