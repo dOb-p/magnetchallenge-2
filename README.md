@@ -1,8 +1,8 @@
-# MagNet Challenge 2023
-## IEEE PELS-Google-Enphase-Princeton MagNet Challenge
+# MagNet Challenge 2025
+## IEEE PELS MagNet Challenge (MagNet Challenge 2)
 <img src="img/mclogo.jpg" width="800">
 
-## This site provides the latest information about the MagNet Challenge. 
+## This site provides the latest information about the MagNet Challenge 2. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 
 ## **We reorganized the datasets and tools used in the MagNet Challenge and moved them to the following sites
