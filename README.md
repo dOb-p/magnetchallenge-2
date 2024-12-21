@@ -16,18 +16,18 @@
 
 ## MagNet Challenge 2 Timeline
 
-- 02-01-2023 MagNet Challenge Handbook Released [PDF](docs/handbook.pdf)
-- 03-21-2023 Data Quality Report [PDF](docs/dataquality.pdf)
-- 04-01-2023 Data for 10 Materials Available [Dropbox](https://www.dropbox.com/sh/yk3rsinvsj831a7/AAAC6vPwXSJgruxmq0EbNvrVa?dl=0)
-- 05-15-2023 1-Page Letter of Intent Due with Signature [PDF](docs/registration.pdf) 
-- 06-15-2023 2-Page Concept Proposal Due [PDF](docs/template.pdf) [DOC](docs/template.doc) [Latex](docs/ieeetran.zip)
-- 07-01-2023 Notification of Acceptance (all 39 teams accepted)
-- 08-01-2023 Expert Feedback on the Concept Proposal
+- 02-01-2025 Initial Call for Participation Announcement [Handbook](docs/handbook.pdf)
+- 03-18-2025 APEC Official Annoucement
+- 04-01-2025 Data for 10 Materials Available
+- 05-01-2025 1-Page Letter of Intent Due with Signature [PDF](docs/registration.pdf) 
+- 06-01-2025 2-Page Concept Proposal Due [PDF](docs/template.pdf) [DOC](docs/template.doc) [Latex](docs/ieeetran.zip)
+- 07-01-2025 Notification of Acceptance (all 39 teams accepted)
+- 08-01-2025 Expert Feedback on the Concept Proposal
 - Teams develop a semi/fully-automated software pipeline to process data and generate models for 10 materials
-- 11-10-2023 Preliminary Submission Due (postponed from 11-01-2023)
+- 11-01-2025 Preliminary Submission Due (postponed from 11-01-2023)
 - Teams use the previously developed software pipeline to process new data and generate models for 3 new materials
-- 12-31-2023 Final Submission Due (postponed from 12-24-2023)
-- 02-29-2024 APEC 2024 - Winner Announcement and Presentation
+- 12-24-2025 Final Submission Due (postponed from 12-24-2023)
+- 03-01-2026 APEC 2024 - Winner Announcement and Presentation
 
 ## Evaluation Timeline
 
