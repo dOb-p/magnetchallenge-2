@@ -48,16 +48,16 @@ The judging committee will evaluate the results of each team with the following 
 
 - MagNet GitHub Discussion Forum [Link](https://github.com/minjiechen/magnetchallenge-2/discussions)
 
-## MagNet Challenge Awards
+## MagNet Challenge Awards (pending)
 
 - Model Performance Award, First Place        $10,000
 - Model Performance Award, Second Place       $5,000
 - Model Novelty Award, First Place            $10,000
 - Model Novelty Award, Second Place           $5,000
-- Outstanding Software Engineering Award      $5,000
+- Outstanding Software Engineering Award      $10,000
 - Honorable Mentions Award         multiple x $1,000
 
-## Related Websites
+## Other Related Resources
 
 - [MagNet Challenge Homepage](https://minjiechen.github.io/magnetchallenge/)
 - [MagNet Challenge GitHub](https://github.com/minjiechen/magnetchallenge)
