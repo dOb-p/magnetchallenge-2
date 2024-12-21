@@ -7,8 +7,11 @@
 
 ## **Useful Link for MagNet Challenge 2025
 [MagNet Challenge 2023](https://github.com/minjiechen/magnetchallenge) - maintained by Princeton University
+
 [MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
+
 [MagNet-AI Platform](https://mag-net.princeton.edu/) - maintained by Princeton University
+
 [MagNet Toolkit](https://github.com/upb-lea/mag-net-hub) - maintained by Paderborn University
 
 ## MagNet Challenge 2 Timeline
