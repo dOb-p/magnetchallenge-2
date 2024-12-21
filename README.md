@@ -29,14 +29,14 @@
 
 ## Evaluation Timeline
 
-- 06-15-2023 Evaluate the concept proposals and ensure all teams understand the competition rules.
-- 11-10-2023 Evaluate the 10 models the teams developed for the 10 materials and provide feedback for improvements.
-- 12-31-2023 Evaluate the 3 new models the teams developed for the 3 new materials and announce the winners.
+- 06-15-2025 Evaluate the concept proposals and ensure all teams understand the competition rules.
+- 11-15-2025 Evaluate the 10 models the teams developed for the 10 materials and provide feedback for improvements.
+- 12-31-2025 Evaluate the 3 new models the teams developed for the 3 new materials and announce the winners.
 
 ## Evaluation Criterias
 
 The judging committee will evaluate the results of each team with the following criterias.
-- Model accuracy: core loss prediction accuracy evaluated by 95th percentile error (lower error better)
+- Model accuracy: core loss and B-H trajectory prediction accuracy (lower error better)
 - Model size: number of parameters the model needs to store for each material (smaller model better)
 - Model explanability: explanability of the model based on existing physical insights (more explainable better)
 - Model novelty: new concepts or insights presented by the model (newer insights better)
