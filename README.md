@@ -19,7 +19,7 @@
 - 02-01-2025 Initial Call for Participation Announcement [Handbook](docs/handbook.pdf)
 - 03-18-2025 APEC Official Annoucement
 - 04-01-2025 Data for 10 Materials Available
-- 05-01-2025 1-Page Letter of Intent Due with Signature [PDF](docs/registration.pdf) 
+- 05-01-2025 1-Page Letter of Intent Due with Signature [PDF](docs/SignUpForm-2025.pdf) 
 - 06-01-2025 2-Page Concept Proposal Due [PDF](docs/template.pdf) [DOC](docs/template.doc) [Latex](docs/ieeetran.zip)
 - 07-01-2025 Notification of Acceptance
 - 08-01-2025 Expert Feedback on the Concept Proposal
