@@ -1,12 +1,12 @@
-# MagNet Challenge 2025
+# MagNet Challenge 2 in 2025
 ## IEEE PELS MagNet Challenge (MagNet Challenge 2)
 <img src="img/mclogo.jpg" width="800">
 
 ## This site provides the latest information about the MagNet Challenge 2. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 
-## **Useful Links for MagNet Challenge 2025
-[MagNet Challenge 2023](https://github.com/minjiechen/magnetchallenge) - maintained by Princeton University
+## **Useful Links for MagNet Challenge 2 in 2025
+[MagNet Challenge 1 in 2023](https://github.com/minjiechen/magnetchallenge) - maintained by Princeton University
 
 [MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
 
