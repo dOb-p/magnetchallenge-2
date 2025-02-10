@@ -26,7 +26,6 @@ There are intrinsic correlations between the materials behavior in steady-state 
 Please refer to the [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-2025.pdf) for more details.
 
 ## MagNet Challenge 2 Timeline
-
 - 02-14-2025 Initial Call for Participation Announcement [Handbook](docs/Handbook-2025.pdf) [Slides](docs/Slides-2025.pdf) [SignUp](docs/SignUpForm-2025.pdf) 
 - 03-18-2025 APEC Official Annoucement
 - 04-01-2025 Data for 10 Materials Available
@@ -39,13 +38,11 @@ Please refer to the [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-
 - 03-01-2026 Winners Selected
 
 ## Evaluation Timeline
-
 - 06-15-2025 Evaluate the concept proposals and ensure all teams understand the competition rules.
 - 11-15-2025 Evaluate the 10 models the teams developed for the 10 materials and provide feedback for improvements.
 - 12-31-2025 Evaluate the 3 new models the teams developed for the 3 new materials and announce the winners.
 
 ## MagNet Challenge 2 Judge Committee
-
 - Prof. David Perreault, MIT, USA
 - Prof. Jürgen Biela, ETH Zurich, Switzerland
 - Prof. Dragan Maksimovic, CU Boulder, USA
@@ -60,11 +57,9 @@ The judging committee will evaluate the results of each team with the following 
 - Software quality: quality of the software engineering (more concise better)
 
 ## MagNet Challenge 2 Discussions
-
 - MagNet Challenge 2 GitHub Discussion Forum [Link](https://github.com/minjiechen/magnetchallenge-2/discussions)
 
 ## MagNet Challenge 2 Awards (pending)
-
 - Model Performance Award, First Place        $10,000
 - Model Performance Award, Second Place       $5,000
 - Model Novelty Award, First Place            $10,000
@@ -73,16 +68,12 @@ The judging committee will evaluate the results of each team with the following 
 - Honorable Mentions Award         multiple x $1,000
 
 ## **Useful Links for MagNet Challenge 2 in 2025
-[MagNet Challenge 1 in 2023](https://github.com/minjiechen/magnetchallenge) - maintained by Princeton University
-
-[MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
-
-[MagNet-AI Platform](https://mag-net.princeton.edu/) - maintained by Princeton University
-
-[MagNet Toolkit](https://github.com/upb-lea/mag-net-hub) - maintained by Paderborn University
+- [MagNet Challenge 1 in 2023](https://github.com/minjiechen/magnetchallenge) - maintained by Princeton University
+- [MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
+- [MagNet-AI Platform](https://mag-net.princeton.edu/) - maintained by Princeton University
+- [MagNet Toolkit](https://github.com/upb-lea/mag-net-hub) - maintained by Paderborn University
 
 ## Other Related Resources
-
 - [MagNet Challenge Homepage](https://minjiechen.github.io/magnetchallenge/)
 - [MagNet Challenge GitHub](https://github.com/minjiechen/magnetchallenge)
 - [MagNet-AI Platform](https://mag-net.princeton.edu/)
