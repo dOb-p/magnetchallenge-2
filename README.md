@@ -23,6 +23,8 @@ In order to capture the physical behaviors of the magnetic material in transient
 
 There are intrinsic correlations between the materials behavior in steady-state and in transient. In fact, a model operates well for transient conditions must operate well in steady states. As a result, student teams are encouraged to reuse the data and models made available for the MagNet Challenge 1 in 2023 and leverage the physical and analytical understandings of the models developed for the MagNet Challenge 1 in 2023 for the MagNet Challenge 2 in 2025.
 
+Please refer to the [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-2025.pdf) for more details.
+
 ## MagNet Challenge 2 Timeline
 
 - 02-14-2025 Initial Call for Participation Announcement [Handbook](docs/Handbook-2025.pdf) [Slides](docs/Slides-2025.pdf) [SignUp](docs/SignUpForm-2025.pdf) 
