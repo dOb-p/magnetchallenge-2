@@ -1,8 +1,8 @@
 # MagNet Challenge 2 in 2025
 ## IEEE Power Electronics Society (PELS) International Challenge on Design Methodologies organized by PELS Technical Committee 10 - Design Methodologies
-- MagNet Challenge 1: Steady-State Losses
-- MagNet Challenge 2: Transient Hysteresis
-- MagNet Challenge 3: Foundation Models
+- MagNet Challenge 1: Steady-State Losses (2023)
+- MagNet Challenge 2: Transient Hysteresis (2025)
+- MagNet Challenge 3: Foundation Models (2027)
 
 <img src="img/mclogo.jpg" width="800">
 
