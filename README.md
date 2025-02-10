@@ -72,7 +72,7 @@ The judging committee will evaluate the results of each team with the following 
 - Outstanding Software Engineering Award      $10,000
 - Honorable Mentions Award         multiple x $1,000
 
-## Useful Links for MagNet Challenge 2 in 2025
+## Useful Links from MagNet Challenge 1 in 2023
 - [MagNet Challenge 1 in 2023](https://github.com/minjiechen/magnetchallenge) - maintained by Princeton University
 - [MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
 - [MagNet-AI Platform](https://mag-net.princeton.edu/) - maintained by Princeton University
