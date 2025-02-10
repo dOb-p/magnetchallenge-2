@@ -5,6 +5,10 @@
 ## This site provides the latest information about the MagNet Challenge 2. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 
+## MagNet Challenge 2 Overview
+<img src="img/overview.jpg" width="800">
+
+
 ## MagNet Challenge 2 Timeline
 
 - 02-14-2025 Initial Call for Participation Announcement [Handbook](docs/Handbook-2025.pdf) [Slides](docs/Slides-2025.pdf) [SignUp](docs/SignUpForm-2025.pdf) 
