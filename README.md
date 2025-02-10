@@ -19,7 +19,9 @@ And produce the following one output:
 
 This function should be packaged as: H'(t)=function (B(t),H(t),B'(t),T). 
 
-In order to capture the physical behaviors of the magnetic material in transient, the models should be frequency agnostic, time-step agnostic, and initial-state agnostic (always converging after a long time). We encourage using the latest stable version of commonly used MATLAB and Python packages. Analytical methods and machine learning methods are both encouraged.
+In order to capture the physical behaviors of the magnetic material in transient, the models should be frequency agnostic (no frequency information), time-step agnostic (short or long time-steps), and initial-state agnostic (always converging after a long time). We encourage using the latest stable version of commonly used MATLAB and Python packages. Analytical methods and machine learning methods are both encouraged.
+
+There are intrinsic correlations between the materials behavior in steady-state and in transient. In fact, a model operates well for transient conditions must operate well in steady states. As a result, student teams are encouraged to reuse the data and models made available for the MagNet Challenge 1 in 2023 and leverage the physical and analytical understandings of the models developed for the MagNet Challenge 1 in 2023 for the MagNet Challenge 2 in 2025.
 
 ## MagNet Challenge 2 Timeline
 
