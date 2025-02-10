@@ -45,7 +45,7 @@ Please refer to the [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-
 ## Evaluation Timeline
 - 06-15-2025 Evaluate the concept proposals and ensure all teams understand the competition rules.
 - 11-15-2025 Evaluate the 10 models the teams developed for the 10 materials and provide feedback for improvements.
-- 12-31-2025 Evaluate the 3 new models the teams developed for the 3 new materials and announce the winners.
+- 12-31-2025 Evaluate the 5 new models the teams developed for the 5 new materials and announce the winners.
 
 ## MagNet Challenge 2 Judge Committee
 - Prof. David Perreault, MIT, USA
