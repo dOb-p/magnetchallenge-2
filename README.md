@@ -1,5 +1,5 @@
 # MagNet Challenge 2 in 2025
-## IEEE Power Electronics Society (PELS) International Challenge on Design Methodologies
+## IEEE Power Electronics Society (PELS) International Challenge on Design Methodologies organized by PELS Technical Committee 10 - Design Methodologies
 <img src="img/mclogo.jpg" width="800">
 
 ## This site provides the latest information about the MagNet Challenge 2
