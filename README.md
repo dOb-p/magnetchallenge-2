@@ -8,6 +8,18 @@
 ## MagNet Challenge 2 Overview
 <img src="img/overview.jpg" width="800">
 
+Build upon the success of MagNet Challenge 1, the goal of the MagNet Challenge 2 is to develop intelligent software tools that can learn and predict magnetic characteristics in transient. For each magnetic material of interest, we are looking for a MATLAB or Python function that takes the following three inputs:
+
+-	A pair of B(t) and H(t) waveforms documenting the excitation history from t_0 to t_1;
+- A future flux density excitation wave B’(t) from t_1 to t_2;
+- Temperature: T.
+
+And produce the following one output:
+- The corresponding field strength wave H’(t) from t_1 to t_2 paired with B’(t).
+
+This function should be packaged as: H'(t)=function (B(t),H(t),B'(t),T). 
+
+In order to capture the physical behaviors of the magnetic material in transient, the models should be frequency agnostic, time-step agnostic, and initial-state agnostic (always converging after a long time). We encourage using the latest stable version of commonly used MATLAB and Python packages. Analytical methods and machine learning methods are both encouraged.
 
 ## MagNet Challenge 2 Timeline
 
