@@ -5,15 +5,6 @@
 ## This site provides the latest information about the MagNet Challenge 2. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 
-## **Useful Links for MagNet Challenge 2 in 2025
-[MagNet Challenge 1 in 2023](https://github.com/minjiechen/magnetchallenge) - maintained by Princeton University
-
-[MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
-
-[MagNet-AI Platform](https://mag-net.princeton.edu/) - maintained by Princeton University
-
-[MagNet Toolkit](https://github.com/upb-lea/mag-net-hub) - maintained by Paderborn University
-
 ## MagNet Challenge 2 Timeline
 
 - 02-01-2025 Initial Call for Participation Announcement [Handbook](docs/Handbook-2025.pdf)
@@ -54,6 +45,15 @@ The judging committee will evaluate the results of each team with the following 
 - Model Novelty Award, Second Place           $5,000
 - Outstanding Software Engineering Award      $10,000
 - Honorable Mentions Award         multiple x $1,000
+
+## **Useful Links for MagNet Challenge 2 in 2025
+[MagNet Challenge 1 in 2023](https://github.com/minjiechen/magnetchallenge) - maintained by Princeton University
+
+[MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
+
+[MagNet-AI Platform](https://mag-net.princeton.edu/) - maintained by Princeton University
+
+[MagNet Toolkit](https://github.com/upb-lea/mag-net-hub) - maintained by Paderborn University
 
 ## Other Related Resources
 
