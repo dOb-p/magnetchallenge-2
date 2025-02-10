@@ -7,7 +7,7 @@
 
 ## MagNet Challenge 2 Timeline
 
-- 02-01-2025 Initial Call for Participation Announcement [Handbook](docs/Handbook-2025.pdf)
+- 02-14-2025 Initial Call for Participation Announcement [Handbook](docs/Handbook-2025.pdf)
 - 03-18-2025 APEC Official Annoucement
 - 04-01-2025 Data for 10 Materials Available
 - 05-01-2025 1-Page Letter of Intent Due with Signature [PDF](docs/SignUpForm-2025.pdf) 
