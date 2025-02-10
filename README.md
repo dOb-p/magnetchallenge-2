@@ -44,7 +44,13 @@ Please refer to the [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-
 - 11-15-2025 Evaluate the 10 models the teams developed for the 10 materials and provide feedback for improvements.
 - 12-31-2025 Evaluate the 3 new models the teams developed for the 3 new materials and announce the winners.
 
-## Evaluation Criterias
+## MagNet Challenge 2 Judge Committee
+
+- Prof. David Perreault, MIT, USA
+- Prof. Jürgen Biela, ETH Zurich, Switzerland
+- Prof. Dragan Maksimovic, CU Boulder, USA
+- Prof. SY Ron Hui, CUHK, Hong Kong
+- Prof. Charles Sullivan, Dartmouth, USA
 
 The judging committee will evaluate the results of each team with the following criterias.
 - Model accuracy: core loss and B-H trajectory prediction accuracy (lower error better)
@@ -53,11 +59,11 @@ The judging committee will evaluate the results of each team with the following 
 - Model novelty: new concepts or insights presented by the model (newer insights better)
 - Software quality: quality of the software engineering (more concise better)
 
-## MagNet Challenge Discussions
+## MagNet Challenge 2 Discussions
 
-- MagNet GitHub Discussion Forum [Link](https://github.com/minjiechen/magnetchallenge-2/discussions)
+- MagNet Challenge 2 GitHub Discussion Forum [Link](https://github.com/minjiechen/magnetchallenge-2/discussions)
 
-## MagNet Challenge Awards (pending)
+## MagNet Challenge 2 Awards (pending)
 
 - Model Performance Award, First Place        $10,000
 - Model Performance Award, Second Place       $5,000
