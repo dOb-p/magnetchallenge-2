@@ -13,7 +13,7 @@ Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purpo
 - Registration Link: TBD
 - Technical and Logistic Details about the Challenge
 
-## MagNet Challenge 2 Overview
+## Overview
 <img src="img/overview.jpg" width="800">
 
 Build upon the success of MagNet Challenge 1, the goal of the MagNet Challenge 2 is to develop intelligent software tools that can learn and predict magnetic characteristics in transient. For each magnetic material of interest, we are looking for a MATLAB or Python function that takes the following three inputs:
