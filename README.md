@@ -12,7 +12,7 @@ Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purpo
 - Topic: Technical and logistic information about the challenge
 - Audience: Anyone
 - Documents: [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-2025.pdf)
-- Registration: https://princeton.zoom.us/webinar/register/WN_SKNgzuqBRQKqVYwajY6tJA
+- Zoom Registration: https://princeton.zoom.us/webinar/register/WN_SKNgzuqBRQKqVYwajY6tJA
 
 ## Overview
 <img src="img/overview.jpg" width="800">
