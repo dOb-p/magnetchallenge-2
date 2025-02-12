@@ -10,7 +10,8 @@ Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purpo
 
 **MagNet Challenge 2 Pre-Launch Meeting**
 - Time: 2025-2-26 Wed 9am EST
-- Registration: TBD
+- Audience: Open to public
+- Zoom link: 
 - Content: Technical and logistic details about the challenge
 
 ## Overview
