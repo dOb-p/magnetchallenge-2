@@ -6,9 +6,8 @@
 
 Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 
-## News
+## News: MagNet Challenge 2 - Webinar #1: Introduction
 
-**MagNet Challenge 2 - Webinar #1: Introduction**
 - Time: 2025-2-26 Wed 9am EST
 - Topic: Technical and logistic details about the challenge
 - Audience: Anyone who is interested in MagNet Challenge 2
