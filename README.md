@@ -1,14 +1,8 @@
 # MagNet Challenge 2 in 2025
 ## IEEE PELS International Challenge on Design Methodologies
-- MagNet Challenge 1: Steady-State Losses (2023)
-- MagNet Challenge 2: Transient Hysteresis (2025)
-- MagNet Challenge 3: Foundation Models (2027)
-
 <img src="img/mclogo.jpg" width="800">
-
 ## This site provides the latest information about the MagNet Challenge 2
 Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
-
 ## MagNet Challenge 2 Overview
 <img src="img/overview.jpg" width="800">
 
