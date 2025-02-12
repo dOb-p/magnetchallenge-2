@@ -10,7 +10,7 @@ Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purpo
 
 - Time: 2025-2-26 Wed 9am EST
 - Topic: Technical and logistic details about the challenge
-- Audience: Anyone who is interested in MagNet Challenge 2
+- Audience: Anyone
 - Registration: https://princeton.zoom.us/webinar/register/WN_SKNgzuqBRQKqVYwajY6tJA
 
 ## Overview
