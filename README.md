@@ -33,7 +33,7 @@ There are intrinsic correlations between the materials behavior in steady-state 
 
 Please refer to the [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-2025.pdf) for more details.
 
-## MagNet Challenge 2 Timeline
+## Timeline
 - 02-14-2025 Initial Call for Participation Announcement [Handbook](docs/Handbook-2025.pdf) [Slides](docs/Slides-2025.pdf) [SignUp](docs/SignUpForm-2025.pdf) 
 - 03-18-2025 APEC Official Annoucement
 - 04-01-2025 Training Data for 10 Materials Available
@@ -46,12 +46,12 @@ Please refer to the [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-
 - 12-24-2025 Final Submission Due
 - 03-01-2026 Winners Selected
 
-## Evaluation Timeline
+## Evaluation
 - 06-15-2025 Evaluate the concept proposals and ensure all teams understand the competition rules.
 - 11-15-2025 Evaluate the 10 models the teams developed for the 10 materials and provide feedback for improvements.
 - 12-31-2025 Evaluate the 5 new models the teams developed for the 5 new materials and announce the winners.
 
-## MagNet Challenge 2 Judge Committee
+## Judge Committee
 - Prof. David Perreault, MIT, USA
 - Prof. Jürgen Biela, ETH Zurich, Switzerland
 - Prof. Dragan Maksimovic, CU Boulder, USA
@@ -65,10 +65,10 @@ The judging committee will evaluate the results of each team with the following 
 - Model novelty: new concepts or insights presented by the model (newer insights better)
 - Software quality: quality of the software engineering (more concise better)
 
-## MagNet Challenge 2 Discussions
+## Discussions
 - MagNet Challenge 2 GitHub Discussion Forum [Link](https://github.com/minjiechen/magnetchallenge-2/discussions)
 
-## MagNet Challenge 2 Awards (pending)
+## Awards (pending)
 - Model Performance Award, First Place        $10,000
 - Model Performance Award, Second Place       $5,000
 - Model Novelty Award, First Place            $10,000
@@ -76,13 +76,13 @@ The judging committee will evaluate the results of each team with the following 
 - Outstanding Software Engineering Award      $10,000
 - Honorable Mentions Award         multiple x $1,000
 
-## Useful Links from MagNet Challenge 1 in 2023
+## Useful Links
 - [MagNet Challenge 1 in 2023](https://github.com/minjiechen/magnetchallenge) - maintained by Princeton University
 - [MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
 - [MagNet-AI Platform](https://mag-net.princeton.edu/) - maintained by Princeton University
 - [MagNet Toolkit](https://github.com/upb-lea/mag-net-hub) - maintained by Paderborn University
 
-## Other Related Resources
+## Other Resources
 - [MagNet Challenge Homepage](https://minjiechen.github.io/magnetchallenge/)
 - [MagNet Challenge GitHub](https://github.com/minjiechen/magnetchallenge)
 - [MagNet-AI Platform](https://mag-net.princeton.edu/)
@@ -91,7 +91,7 @@ The judging committee will evaluate the results of each team with the following 
 - [Dartmouth PMIC](https://pmic.engineering.dartmouth.edu/)
 - [ETHz PES](https://pes.ee.ethz.ch/)
 
-## MagNet Project Reference Papers
+## Reference Papers
 - M. Chen, H. Li, S. Wang, T. Guillod, D. Serrano, N. Forster, W. Kirchgassner, T. Piepenbrock, O. Schweins, O. Wallscheid, Q. Huang, Y. Li, Y. Dou, B. Li, S. Li, E. Havugimana, V. T. Chacko, S. Radhakrishnan, M. Ranjram, B. Sauter, S. Reese, S. Sinha, L. Zhang, T. McKeague, B. Cui, N. Rasekh, J. Wang, S. Liu, A. Martinez, X. Liu, C. Mei, R. Zhao, G. Wu, H. Wu, R. Zhang, H. Song, L. Zhang, Y. Lu, L. Hang, N. Rajput, H. B. Sandhibigraha, N. Agrawal, V. M. Iyer, X. Shen, F. Tian, Q. Sui, J. Kong, W. Martinez, A. Arruti, B. Alberdi, A. Agote, I. Aizpuru, M. Zhang, X. Chen, Y. Dong, D. Wang, T. Shen, Y. Zhou, Y. Li, S. Wang, Y. Wu, Y. Jiang, Z. Xiao, Y. Tang, Y.-S. Hsieh, J.-D. Li, L.-C. Yu, T.-C. Hsu, Y.-C. Liu, C.-H. Hsia, C. Chen, A. Giuffrida, N. Lombardo, F. Marmello, S. Morra, M. Pasquale, L. Solimene, C. S. Ragusa, J. Reynvaan, M. Stoiber, C. Li, W. Qin, X. Ma, B. Zhang, Z. Wang, M. Cheng, W. Xu, J. Wang, Y. Hu, J. Xu, Z. Shi, D. B. Sapkota, P. Neupane, M. Joshi, S. Khan, B. Su, Y. Xiao, M. Yang, K. Sun, Z. Li, R. Mirzadarani, R. Liu, L. Wang, T. Luo, D. Lyu, M. G. Niasar, Z. Qin, S. I. A. Meerza, K. Froehle, H. H. Cui, D. Costinett, J. Liu, Z. Liu, C. Zhan, Y. Dang, Y. Zhang, N. Wang, Y. Chen, Y. Zhang, C. Li, Y. Yao, T. Hu, L. Xu, Y. Wang, S. Wang, S. Jiang, D. Shumacher, D. Maksimovic, R. S. Y. Hui, J. W. Kolar, D. J. Perreault, and C. R. Sullivan, "Magnet Challenge for Data-Driven Power Magnetics Modeling," in IEEE Open Journal of Power Electronics, doi: 10.1109/OJPEL.2024.3469916. [Paper](https://ieeexplore.ieee.org/document/10699398)
 - S. Wang, H. Kwon, H. Li, et al. "MagNetX: Foundation Neural Network Models for Simulating Power Magnetics in Transient," TechRxiv. December 11, 2024. [Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173396153.34393547)
 - H. Kwon, S. Wang, H. Li, et al. "MagNetX: Extending the MagNet Database for Modeling Power Magnetics in Transient," TechRxiv. December 11, 2024. [Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173396064.40994860)
