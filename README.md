@@ -4,7 +4,7 @@
 ## IEEE PELS International Challenge on Design Methodologies
 ## This site provides the latest information about the MagNet Challenge 2
 ## Please contact pelsmagnet@gmail.com for all purposes
-## [Webinar #1] MagNet Challenge 2 - Zoom Launch
+## [Webinar #1] MagNet Challenge 2 - Public Launch
 
 - Time: 2025-2-26 Wed 9am EST
 - [Zoom Link](https://princeton.zoom.us/webinar/register/WN_SKNgzuqBRQKqVYwajY6tJA)
