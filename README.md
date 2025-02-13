@@ -1,8 +1,8 @@
 # MagNet Challenge 2
-## IEEE PELS International Challenge on Design Methodologies
-## Please contact pelsmagnet@gmail.com for all purposes
 <img src="img/mclogo.jpg" width="800">
 
+## IEEE PELS International Challenge on Design Methodologies
+## Please contact pelsmagnet@gmail.com for all purposes
 ## This site provides the latest information about the MagNet Challenge 2
 ## [Webinar #1] MagNet Challenge 2 Zoom Launch
 
