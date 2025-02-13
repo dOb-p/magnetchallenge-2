@@ -6,11 +6,18 @@
 
 Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 
-## [New] MagNet Challenge 2 - Webinar #1: Introduction
+## [Meeting] MagNet Challenge 2 - Webinar #1: Introduction
 
 - Time: 2025-2-26 Wed 9am EST
 - Topic: Technical and logistic information about the challenge
 - Zoom Registration: https://princeton.zoom.us/webinar/register/WN_SKNgzuqBRQKqVYwajY6tJA
+- Reading: [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-2025.pdf)
+
+## [Meeting] MagNet Challenge 2 - Webinar #2: APEC Launch
+
+- Time: 2025-3-19 Wed 3pm EST
+- Topic: In Person Launch for MagNet Challenge 2
+- Zoom Registration: https://princeton.zoom.us/webinar/register/WN_vjewaKl4Sry32FcIrbLYiw
 - Reading: [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-2025.pdf)
 
 ## Overview
