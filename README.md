@@ -7,14 +7,14 @@
 ## [Webinar #1] MagNet Challenge 2 - Public Launch
 
 - Time: 2025-2-26 Wed 9am EST
-- [Zoom Link](https://princeton.zoom.us/webinar/register/WN_SKNgzuqBRQKqVYwajY6tJA)
+- [Webinar Registration](https://princeton.zoom.us/webinar/register/WN_SKNgzuqBRQKqVYwajY6tJA)
 - Reading: [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-2025.pdf)
 
 ## [Webinar #2] MagNet Challenge 2 - APEC Launch
 
 - Time: 2025-3-19 Wed 2pm EST
 - Atlanta Omni Hotel, Room Grand A
-- [Zoom Link](https://princeton.zoom.us/webinar/register/WN_vjewaKl4Sry32FcIrbLYiw)
+- [Webinar Registration](https://princeton.zoom.us/webinar/register/WN_vjewaKl4Sry32FcIrbLYiw)
 - Reading: [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-2025.pdf)
 
 ## Overview
