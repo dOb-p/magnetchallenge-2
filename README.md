@@ -85,10 +85,11 @@ The judging committee will evaluate the results of each team with the following 
 - [MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
 - [MagNet-AI Platform](https://mag-net.princeton.edu/) - maintained by Princeton University
 - [MagNet Toolkit](https://github.com/upb-lea/mag-net-hub) - maintained by Paderborn University
+- [MagNet Engine](https://github.com/moetomg/magnet-engine) - maintained by University of Sydney
 
 ## Other Resources
-- [MagNet Challenge Homepage](https://minjiechen.github.io/magnetchallenge/)
-- [MagNet Challenge GitHub](https://github.com/minjiechen/magnetchallenge)
+- [MagNet Challenge 1 Homepage](https://minjiechen.github.io/magnetchallenge/)
+- [MagNet Challenge 1 GitHub](https://github.com/minjiechen/magnetchallenge)
 - [MagNet-AI Platform](https://mag-net.princeton.edu/)
 - [MagNet-AI GitHub](https://github.com/PrincetonUniversity/Magnet)
 - [Princeton Power Electronics Research Lab](https://www.princeton.edu/~minjie/magnet.html)
