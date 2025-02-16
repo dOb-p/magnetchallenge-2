@@ -70,7 +70,7 @@ The judging committee will evaluate the results of each team with the following 
 - Software quality: quality of the software engineering (more concise better)
 
 ## Discussions
-- MagNet Challenge 2 GitHub Discussion Forum [Link](https://github.com/minjiechen/magnetchallenge-2/discussions)
+- Discussion Forum [Link](https://github.com/minjiechen/magnetchallenge-2/discussions)
 
 ## Awards (pending)
 - Model Performance Award, First Place        $10,000
