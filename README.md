@@ -110,6 +110,9 @@ The judging committee will evaluate the results of each team with the following 
 - Wurth Electronik
 - ITG Electronics
 - pSemi
+- TSMC
+- IEEE Power Electronics Society
+- Princeton University
 
 ## Organizers
 <img src="img/magnetteam.jpg" width="800">
