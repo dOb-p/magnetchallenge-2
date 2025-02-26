@@ -7,7 +7,7 @@
 ## [Webinar #1] MagNet Challenge 2 - Public Launch
 
 - Time: 2025-2-26 Wed 9am EST
-- [Recordings](https://www.youtube.com/watch?v=M828SxwGF1s)
+- [Video Recording](https://www.youtube.com/watch?v=M828SxwGF1s)
 - Reading: [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-2025.pdf)
 
 ## [Webinar #2] MagNet Challenge 2 - APEC Launch
