@@ -5,14 +5,12 @@
 ## This site provides the latest information about the MagNet Challenge 2
 ## Please contact pelsmagnet@gmail.com for all purposes
 ## Sign-Up to MagNet Challenge 2 [PDF](docs/SignUpForm-2025.pdf) 
-## [Webinar #1] MagNet Challenge 2 - Public Launch
-
+## [News #1] MagNet Challenge 2 - Public Launch
 - Time: 2025-2-26 Wed 9am EST
 - [Video Recording](https://www.youtube.com/watch?v=M828SxwGF1s)
 - Reading: [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-2025.pdf)
 
-## [Webinar #2] MagNet Challenge 2 - APEC Launch
-
+## [News #2] MagNet Challenge 2 - APEC Launch
 - Time: 2025-3-19 Wed 2pm EST
 - Atlanta Omni Hotel, Room Grand A
 - [Webinar Registration](https://princeton.zoom.us/webinar/register/WN_vjewaKl4Sry32FcIrbLYiw)
