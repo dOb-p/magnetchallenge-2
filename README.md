@@ -8,6 +8,8 @@
 
 ## Participating Teams
 - Eindhoven University of Technology, Netherland 🇳🇱
+- Princeton University, USA 🇺🇸 (not competing)
+- Dartmouth COllege, USA 🇺🇸 (not competing)
 
 ## [News #1] MagNet Challenge 2 - Public Launch
 - Time: 2025-2-26 Wed 9am EST
