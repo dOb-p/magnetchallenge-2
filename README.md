@@ -6,6 +6,9 @@
 - Please contact pelsmagnet@gmail.com for all purposes
 - Sign-Up to MagNet Challenge 2 [PDF](docs/SignUpForm-2025.pdf) 
 
+## Participating Teams
+- Eindhoven University of Technology, Netherland 🇳🇱
+
 ## [News #1] MagNet Challenge 2 - Public Launch
 - Time: 2025-2-26 Wed 9am EST
 - [Video Recording](https://www.youtube.com/watch?v=M828SxwGF1s)
