@@ -11,15 +11,14 @@
 - Princeton University, USA 🇺🇸 (not competing)
 - Dartmouth College, USA 🇺🇸 (not competing)
 
+## [News #2] MagNet Challenge 2 - APEC Launch
+- Time: 2025-3-19 Wed 2pm EST
+- Atlanta Omni Hotel, Room Grand A
+
 ## [News #1] MagNet Challenge 2 - Public Launch
 - Time: 2025-2-26 Wed 9am EST
 - [Video Recording](https://www.youtube.com/watch?v=M828SxwGF1s)
 - Reading: [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-2025.pdf)
-
-## [News #2] MagNet Challenge 2 - APEC Launch
-- Time: 2025-3-19 Wed 2pm EST
-- Atlanta Omni Hotel, Room Grand A
-- [Webinar Registration](https://princeton.zoom.us/webinar/register/WN_vjewaKl4Sry32FcIrbLYiw)
 
 ## Overview
 <img src="img/overview.jpg" width="800">
