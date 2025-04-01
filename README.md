@@ -62,7 +62,7 @@ Please refer to the [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-
 - Prof. David Perreault, MIT, USA
 - Prof. Jürgen Biela, ETH Zurich, Switzerland
 - Prof. Dragan Maksimovic, CU Boulder, USA
-- Prof. SY Ron Hui, CUHK, Hong Kong
+- Prof. SY Ron Hui, CityU, Hong Kong
 - Prof. Charles Sullivan, Dartmouth, USA
 
 The judging committee will evaluate the results of each team with the following criterias.
