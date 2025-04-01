@@ -16,7 +16,7 @@ Training data for 10 materials (the same 10 materials as MagNet Challenge 1):
 - [MagNet Challenge 2 Data](https://www.dropbox.com/scl/fo/o07x7fa6d5elev19pzd1w/AISuBEWf8LQVszFeoaTlqY4?rlkey=8ec7mqukfr9no61h193zb4qdb&dl=0)
 - [Readme](docs/README.pdf)
 
-You may want to use the steady-state data from MagNet Challenge 1:
+You may want to reuse the steady-state data from MagNet Challenge 1:
 - [MagNet Challenge 1 Data](https://www.princeton.edu/~minjie/magnet.html)
 
 Testing data on 5+ new materials will be released on Nov. 1st;
