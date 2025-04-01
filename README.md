@@ -1,7 +1,7 @@
 # MagNet Challenge 2
 <img src="img/mclogo.jpg" width="800">
 
-## IEEE PELS International Challenge on Design Methodologies
+## IEEE PELS International Challenge on Design Methodologies [Prize Pool $60,000]
 - This site provides the latest information about the MagNet Challenge 2
 - Please contact pelsmagnet@gmail.com for all purposes
 - Sign-Up to MagNet Challenge 2 before May 1st [PDF](docs/SignUpForm-2025.pdf) 
