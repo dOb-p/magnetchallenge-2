@@ -4,7 +4,7 @@
 ## IEEE PELS International Challenge on Design Methodologies
 - This site provides the latest information about the MagNet Challenge 2
 - Please contact pelsmagnet@gmail.com for all purposes
-- Sign-Up to MagNet Challenge 2 [PDF](docs/SignUpForm-2025.pdf) 
+- Sign-Up to MagNet Challenge 2 before May 1st [PDF](docs/SignUpForm-2025.pdf) 
 
 ## Participating Teams
 - Eindhoven University of Technology, Netherland 🇳🇱
