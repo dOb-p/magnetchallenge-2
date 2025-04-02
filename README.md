@@ -19,8 +19,11 @@ Training data for 10 materials (the same 10 materials as MagNet Challenge 1):
 You may want to reuse the steady-state data from MagNet Challenge 1:
 - [MagNet Challenge 1 Data](https://www.princeton.edu/~minjie/magnet.html)
 
-Testing data on 5+ new materials will be released on Nov. 1st;
-Let us know if you find any problems with the data
+Note:
+* Testing data on 5+ new materials will be released on Nov. 1st;
+* Data sequences are sampled at a fixed rate (16 MHz) in different lengths;
+* Data sequences in different rows are independent from each other;
+* Let us know if you find any problems with the data.
 
 ## [News #2] MagNet Challenge 2 - APEC Launch
 - Time: 2025-3-19 Wed 2pm EST
