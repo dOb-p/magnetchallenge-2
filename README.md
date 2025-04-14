@@ -7,6 +7,7 @@
 - Sign-Up to MagNet Challenge 2 before May 1st [PDF](docs/SignUpForm-2025.pdf) 
 
 ## Participating Teams
+- Aalborg University, Denmark 🇩🇰
 - Eindhoven University of Technology, Netherland 🇳🇱
 - Tianjin University, China 🇨🇳
 - Wilhelm Kirchgässner, Germany 🇩🇪
