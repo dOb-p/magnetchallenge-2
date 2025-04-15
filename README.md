@@ -11,6 +11,7 @@
 - Eindhoven University of Technology, Netherland 🇳🇱
 - Tianjin University, China 🇨🇳
 - Wilhelm Kirchgässner, Germany 🇩🇪
+- Seigen & Paderborn, Germany 🇩🇪
 - Princeton University, USA 🇺🇸 (not competing)
 - Dartmouth College, USA 🇺🇸 (not competing)
 
