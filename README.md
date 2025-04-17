@@ -10,7 +10,7 @@
 - Aalborg University, Denmark 🇩🇰
 - Eindhoven University of Technology, Netherland 🇳🇱
 - Tianjin University, China 🇨🇳
-- Wilhelm Kirchgässner, Germany 🇩🇪
+- Xi'an Jiaotong University, China 🇨🇳
 - Seigen & Paderborn, Germany 🇩🇪
 - Princeton University, USA 🇺🇸 (not competing)
 - Dartmouth College, USA 🇺🇸 (not competing)
