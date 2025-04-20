@@ -12,8 +12,8 @@
 - Tianjin University, China 🇨🇳
 - Xi'an Jiaotong University, China 🇨🇳
 - Seigen & Paderborn, Germany 🇩🇪
-- Arizona State University, USA 🇺🇸
 - Nanyang Technological University, Singapore 🇸🇬
+- Arizona State University, USA 🇺🇸
 - Princeton University, USA 🇺🇸 (not competing)
 - Dartmouth College, USA 🇺🇸 (not competing)
 
