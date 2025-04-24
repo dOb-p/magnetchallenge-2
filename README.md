@@ -16,6 +16,7 @@
 - Seigen & Paderborn, Germany 🇩🇪
 - Nanyang Technological University, Singapore 🇸🇬
 - University of Sydney, Australia 🇦🇺
+- National Institute of Technology Calicut, India 🇮🇳
 - Arizona State University, USA 🇺🇸
 - Georgia Institute of Technology, USA 🇺🇸
 - Princeton University, USA 🇺🇸 (not competing)
