@@ -5,6 +5,7 @@
 - This site provides the latest information about the MagNet Challenge 2
 - Please contact pelsmagnet@gmail.com for all purposes
 - Sign-Up to MagNet Challenge 2 before May 1st [PDF](docs/SignUpForm-2025.pdf)
+- Consider the sign-up rules as recommendations but not mandatory. 
 - We are planning a few tutorial sessions in May/June to get everyone started.
 
 ## Participating Teams
