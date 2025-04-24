@@ -15,6 +15,7 @@
 - Nanyang Technological University, Singapore 🇸🇬
 - University of Sydney, Australia 🇦🇺
 - Arizona State University, USA 🇺🇸
+- Georgia Institute of Technology, USA 🇺🇸
 - Princeton University, USA 🇺🇸 (not competing)
 - Dartmouth College, USA 🇺🇸 (not competing)
 
