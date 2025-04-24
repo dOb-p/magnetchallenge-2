@@ -13,6 +13,7 @@
 - Xi'an Jiaotong University, China 🇨🇳
 - Seigen & Paderborn, Germany 🇩🇪
 - Nanyang Technological University, Singapore 🇸🇬
+- University Of Sydney, Australia 🇦🇺
 - Arizona State University, USA 🇺🇸
 - Princeton University, USA 🇺🇸 (not competing)
 - Dartmouth College, USA 🇺🇸 (not competing)
