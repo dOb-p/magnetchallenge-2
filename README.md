@@ -14,7 +14,8 @@
 - Tianjin University, China 🇨🇳
 - Xi'an Jiaotong University, China 🇨🇳
 - Seigen & Paderborn, Germany 🇩🇪
-- Nanyang Technological University, Singapore 🇸🇬
+- Nanyang Technological University - Yang, Singapore 🇸🇬
+- Nanyang Technological University - Tang, Singapore 🇸🇬
 - University of Sydney, Australia 🇦🇺
 - National Institute of Technology Calicut, India 🇮🇳
 - Arizona State University, USA 🇺🇸
