@@ -18,6 +18,7 @@
 - Nanyang Technological University - Tang, Singapore 🇸🇬
 - University of Sydney, Australia 🇦🇺
 - National Institute of Technology Calicut, India 🇮🇳
+- Indian Institute of Technology Dharwad, India 🇮🇳
 - Arizona State University, USA 🇺🇸
 - Georgia Institute of Technology, USA 🇺🇸
 - Princeton University, USA 🇺🇸 (not competing)
