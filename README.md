@@ -28,6 +28,16 @@
 - Princeton University, USA 🇺🇸 (not competing)
 - Dartmouth College, USA 🇺🇸 (not competing)
 
+## Sponsors (Confirmed)
+- Nvidia
+- Texas Instruments
+- Wurth Electronik
+- ITG Electronics
+- pSemi
+- TSMC
+- IEEE Power Electronics Society
+- Princeton University
+
 ## [News #3] MagNet Challenge 2 - Training Data Release
 Training data for 10 materials (the same 10 materials as MagNet Challenge 1):
 - [MagNet Challenge 2 Data](https://www.dropbox.com/scl/fo/o07x7fa6d5elev19pzd1w/AISuBEWf8LQVszFeoaTlqY4?rlkey=8ec7mqukfr9no61h193zb4qdb&dl=0)
@@ -137,16 +147,6 @@ The judging committee will evaluate the results of each team with the following 
 - D. Serrano et al., "Why MagNet: Quantifying the Complexity of Modeling Power Magnetic Material Characteristics," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2023.3291084. [Paper](https://ieeexplore.ieee.org/document/10169101)
 - H. Li et al., "How MagNet: Machine Learning Framework for Modeling Power Magnetic Material Characteristics," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2023.3309232. [Paper](https://ieeexplore.ieee.org/document/10232863)
 - H. Li, D. Serrano, S. Wang and M. Chen, "MagNet-AI: Neural Network as Datasheet for Magnetics Modeling and Material Recommendation," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2023.3309233. [Paper](https://ieeexplore.ieee.org/document/10232911)
-
-## Sponsors (Pending)
-- Nvidia
-- Texas Instruments
-- Wurth Electronik
-- ITG Electronics
-- pSemi
-- TSMC
-- IEEE Power Electronics Society
-- Princeton University
 
 ## Organizers
 <img src="img/magnetteam.jpg" width="800">
