@@ -20,6 +20,7 @@
 - Nanyang Technological University - Yang, Singapore 🇸🇬
 - Nanyang Technological University - Tang, Singapore 🇸🇬
 - University of Sydney, Australia 🇦🇺
+- University of Bristol, UK 🇬🇧
 - National Institute of Technology Calicut, India 🇮🇳
 - Indian Institute of Technology Dharwad, India 🇮🇳
 - Arizona State University, USA 🇺🇸
