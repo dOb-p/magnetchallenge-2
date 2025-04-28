@@ -13,6 +13,7 @@
 - Eindhoven University of Technology, Netherland 🇳🇱
 - Tianjin University, China 🇨🇳
 - Xi'an Jiaotong University, China 🇨🇳
+- Fuzhou University, China 🇨🇳
 - Seigen & Paderborn, Germany 🇩🇪
 - Nanyang Technological University - Yang, Singapore 🇸🇬
 - Nanyang Technological University - Tang, Singapore 🇸🇬
