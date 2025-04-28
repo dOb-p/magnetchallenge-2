@@ -14,6 +14,8 @@
 - Tianjin University, China 🇨🇳
 - Xi'an Jiaotong University, China 🇨🇳
 - Fuzhou University, China 🇨🇳
+- Hangzhou Dianzi University, China 🇨🇳
+- The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰
 - Seigen & Paderborn, Germany 🇩🇪
 - Nanyang Technological University - Yang, Singapore 🇸🇬
 - Nanyang Technological University - Tang, Singapore 🇸🇬
