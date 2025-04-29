@@ -12,9 +12,12 @@
 - Aalborg University, Denmark 🇩🇰
 - Eindhoven University of Technology, Netherland 🇳🇱
 - Tianjin University, China 🇨🇳
-- Xi'an Jiaotong University, China 🇨🇳
+- Xi'an Jiaotong University - Zhu, China 🇨🇳
+- Xi'an Jiaotong University - Wei, China 🇨🇳
 - Fuzhou University, China 🇨🇳
 - Hangzhou Dianzi University, China 🇨🇳
+- Xiamen University of Technology, China 🇨🇳
+- Fujian University of Technology, China 🇨🇳 
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰
 - Seigen & Paderborn, Germany 🇩🇪
 - Nanyang Technological University - Yang, Singapore 🇸🇬
@@ -23,6 +26,7 @@
 - University of Bristol, UK 🇬🇧
 - National Institute of Technology Calicut, India 🇮🇳
 - Indian Institute of Technology Dharwad, India 🇮🇳
+- Silicon Austria Labs, 🇦🇹
 - Arizona State University, USA 🇺🇸
 - Georgia Institute of Technology, USA 🇺🇸
 - Princeton University, USA 🇺🇸 (not competing)
