@@ -27,7 +27,7 @@
 - University of Bristol, UK 🇬🇧
 - National Institute of Technology Calicut, India 🇮🇳
 - Indian Institute of Technology Dharwad, India 🇮🇳
-- Silicon Austria Labs, 🇦🇹
+- Silicon Austria Labs, Austria 🇦🇹
 - Arizona State University, USA 🇺🇸
 - Georgia Institute of Technology, USA 🇺🇸
 - Princeton University, USA 🇺🇸 (not competing)
