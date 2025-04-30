@@ -17,7 +17,8 @@
 - Fuzhou University, China 🇨🇳
 - Hangzhou Dianzi University, China 🇨🇳
 - Xiamen University of Technology, China 🇨🇳
-- Fujian University of Technology, China 🇨🇳 
+- Fujian University of Technology, China 🇨🇳
+- Southeast University, China 🇨🇳
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰
 - Seigen & Paderborn, Germany 🇩🇪
 - Nanyang Technological University - Yang, Singapore 🇸🇬
