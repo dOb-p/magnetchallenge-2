@@ -9,18 +9,24 @@
 - We are planning a few tutorial sessions in May/June to get everyone started.
 
 ## Participating Teams
-- Aalborg University, Denmark 🇩🇰
+- Aalborg University - Zhao, Denmark 🇩🇰
+- Aalborg University - Davari, Denmark 🇩🇰
 - Eindhoven University of Technology, Netherland 🇳🇱
 - Tianjin University, China 🇨🇳
 - Xi'an Jiaotong University - Zhu, China 🇨🇳
 - Xi'an Jiaotong University - Wei, China 🇨🇳
+- Xi'an Jiaotong University - Chen, China 🇨🇳
 - Fuzhou University, China 🇨🇳
 - Hangzhou Dianzi University, China 🇨🇳
 - Xiamen University of Technology, China 🇨🇳
 - Fujian University of Technology, China 🇨🇳
-- Southeast University, China 🇨🇳
+- Southeast University - Cheng, China 🇨🇳
+- Southeast University - Xu, China 🇨🇳
+- Huazhong University of Science and Technology, China 🇨🇳
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰
 - Seigen & Paderborn, Germany 🇩🇪
+- University of Kassel, Germany 🇩🇪
+- Politecnico di Torino, Italy 🇮🇹
 - Nanyang Technological University - Yang, Singapore 🇸🇬
 - Nanyang Technological University - Tang, Singapore 🇸🇬
 - University of Sydney, Australia 🇦🇺
