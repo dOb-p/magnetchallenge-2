@@ -22,6 +22,7 @@
 - Fujian University of Technology, China 🇨🇳
 - Southeast University - Cheng, China 🇨🇳
 - Southeast University - Xu, China 🇨🇳
+- Hefei University of Technology, China 🇨🇳
 - Huazhong University of Science and Technology, China 🇨🇳
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰
 - Seigen & Paderborn, Germany 🇩🇪
@@ -31,10 +32,12 @@
 - Nanyang Technological University - Tang, Singapore 🇸🇬
 - University of Sydney, Australia 🇦🇺
 - University of Bristol, UK 🇬🇧
-- National Institute of Technology Calicut, India 🇮🇳
+- National Institute of Technology Calicut - Mohan, India 🇮🇳
+- National Institute of Technology Calicut - Muhammed, India 🇮🇳
 - Indian Institute of Technology Dharwad, India 🇮🇳
 - Silicon Austria Labs, Austria 🇦🇹
 - Arizona State University, USA 🇺🇸
+- University of Missouri Columbia, USA 🇺🇸
 - Georgia Institute of Technology, USA 🇺🇸
 - Princeton University, USA 🇺🇸 (not competing)
 - Dartmouth College, USA 🇺🇸 (not competing)
