@@ -27,6 +27,7 @@
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰
 - Seigen & Paderborn, Germany 🇩🇪
 - University of Kassel, Germany 🇩🇪
+- Wuerth Elektronik, Germany 🇩🇪
 - Politecnico di Torino, Italy 🇮🇹
 - Tokyo Metropolitan University, Japan 🇯🇵
 - Nanyang Technological University (Yang), Singapore 🇸🇬
