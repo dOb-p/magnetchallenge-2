@@ -28,6 +28,7 @@
 - Seigen & Paderborn, Germany 🇩🇪
 - University of Kassel, Germany 🇩🇪
 - Politecnico di Torino, Italy 🇮🇹
+- Tokyo Metropolitan University, Japan 🇯🇵
 - Nanyang Technological University (Yang), Singapore 🇸🇬
 - Nanyang Technological University (Tang), Singapore 🇸🇬
 - University of Sydney, Australia 🇦🇺
