@@ -8,7 +8,7 @@
 - Consider the sign-up rules as recommendations but not mandatory. 
 - We are planning a few tutorial sessions in May/June to get everyone started.
 
-## Participating Teams (32 Teams Confirmed)
+## Participating Teams (33 Teams Confirmed)
 - Aalborg University (Zhao), Denmark 🇩🇰
 - Aalborg University (Davari), Denmark 🇩🇰
 - Eindhoven University of Technology, Netherland 🇳🇱
