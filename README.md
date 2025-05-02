@@ -30,6 +30,7 @@
 - Wuerth Elektronik, Germany 🇩🇪
 - Politecnico di Torino, Italy 🇮🇹
 - Tokyo Metropolitan University, Japan 🇯🇵
+- Nagoya Institute of Technology, Japan 🇯🇵
 - Nanyang Technological University (Yang), Singapore 🇸🇬
 - Nanyang Technological University (Tang), Singapore 🇸🇬
 - University of Sydney, Australia 🇦🇺
