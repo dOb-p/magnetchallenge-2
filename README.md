@@ -40,6 +40,7 @@
 - Nanyang Technological University (Tang), Singapore 🇸🇬
 - University of Sydney, Australia 🇦🇺
 - University of Bristol, UK 🇬🇧
+- University of Cambridge, UK 🇬🇧
 - National Institute of Technology Calicut (Mohan), India 🇮🇳
 - National Institute of Technology Calicut (Muhammed), India 🇮🇳
 - Indian Institute of Technology Dharwad, India 🇮🇳
