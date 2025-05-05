@@ -13,7 +13,7 @@
 - Time: Every Friday, 9am-10am EST, from May 16th to June 6th (4 times).
 - Registration: https://princeton.zoom.us/webinar/register/WN_uGYhxr9qTDe6Sjzm8qzQ9w
 
-## [News #5] Participating Teams (34 Teams Confirmed)
+## [News #5] Participating Teams (36 Teams Confirmed)
 - Aalborg University (Zhao), Denmark 🇩🇰
 - Aalborg University (Davari), Denmark 🇩🇰
 - Eindhoven University of Technology, Netherland 🇳🇱
@@ -148,6 +148,7 @@ The judging committee will evaluate the results of each team with the following 
 - Honorable Mentions Award         multiple x $1,000
 
 ## Useful Links
+- [MagNet Challenge 2 in 2025](https://github.com/minjiechen/magnetchallenge-2) - maintained by Princeton University
 - [MagNet Challenge 1 in 2023](https://github.com/minjiechen/magnetchallenge) - maintained by Princeton University
 - [MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
 - [MagNet-AI Platform](https://mag-net.princeton.edu/) - maintained by Princeton University
