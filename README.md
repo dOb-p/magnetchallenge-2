@@ -30,15 +30,15 @@
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰
 - Seigen & Paderborn, Germany 🇩🇪
 - University of Kassel, Germany 🇩🇪
-- Wuerth Elektronik, Germany 🇩🇪
+- Leeds & Wuerth Elektronik, UK & Germany 🇬🇧 🇩🇪
+- University of Bristol, UK 🇬🇧
+- University of Cambridge, UK 🇬🇧
 - Politecnico di Torino, Italy 🇮🇹
 - Tokyo Metropolitan University, Japan 🇯🇵
 - Nagoya Institute of Technology, Japan 🇯🇵
 - Nanyang Technological University (Yang), Singapore 🇸🇬
 - Nanyang Technological University (Tang), Singapore 🇸🇬
 - University of Sydney, Australia 🇦🇺
-- University of Bristol, UK 🇬🇧
-- University of Cambridge, UK 🇬🇧
 - National Institute of Technology Calicut (Mohan), India 🇮🇳
 - National Institute of Technology Calicut (Muhammed), India 🇮🇳
 - Indian Institute of Technology Dharwad, India 🇮🇳
