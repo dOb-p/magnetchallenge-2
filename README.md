@@ -8,7 +8,7 @@
 - Consider the sign-up rules as recommendations but not mandatory. 
 - We are planning a few tutorial sessions in May/June to get everyone started.
 
-## MagNet Tutorial Series on Zoom
+## [New] MagNet Tutorial Series on Zoom
 - Introduce baseline models for training and testing.
 - Time: Every Friday, 9am-10am EST, from May 16th to June 6th (4 times).
 - Registration: https://princeton.zoom.us/webinar/register/WN_uGYhxr9qTDe6Sjzm8qzQ9w
