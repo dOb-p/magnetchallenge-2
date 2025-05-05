@@ -11,7 +11,7 @@
 ## [News #6] MagNet Tutorial Series
 - Zoom meetings to introduce baseline models for training and testing.
 - Time: Every Friday, 9am-10am EST, from May 16th to June 6th (4 times).
-- Registration: https://princeton.zoom.us/webinar/register/WN_uGYhxr9qTDe6Sjzm8qzQ9w
+- [SignUp](https://princeton.zoom.us/webinar/register/WN_uGYhxr9qTDe6Sjzm8qzQ9w)
 
 ## [News #5] Participating Teams (36 Teams Confirmed)
 - Aalborg University (Zhao), Denmark 🇩🇰
