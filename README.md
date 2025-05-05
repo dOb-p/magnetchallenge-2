@@ -7,7 +7,7 @@
 - Sign-Up to MagNet Challenge 2 before May 1st [PDF](docs/SignUpForm-2025.pdf), extended to May 8th.
 
 ## [New] MagNet Tutorial Series
-- Introduce baseline models for training and testing.
+- Zoom meetings to introduce baseline models for training and testing.
 - Time: Every Friday, 9am-10am EST, from May 16th to June 6th (4 times).
 - Registration: https://princeton.zoom.us/webinar/register/WN_uGYhxr9qTDe6Sjzm8qzQ9w
 
