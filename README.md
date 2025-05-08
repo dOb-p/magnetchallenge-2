@@ -4,8 +4,8 @@
 ## IEEE PELS International Challenge on Design Methodologies [Prize Pool $60,000]
 - This site provides the latest information about the MagNet Challenge 2.
 - Please contact pelsmagnet@gmail.com for all purposes.
-- Sign-Up to MagNet Challenge 2 before May 1st [PDF](docs/SignUpForm-2025.pdf), extended to May 8th.
-- 2-Page concept proposal due June 1st [PDF](docs/template.pdf), [DOC](docs/template.doc), [Latex](docs/ieeetran.zip), extended to June 15th.
+- Sign-Up to MagNet Challenge 2 before May 1st [PDF](docs/SignUpForm-2025.pdf), extended to *May 8th*.
+- 2-Page concept proposal due June 1st [PDF](docs/template.pdf), [DOC](docs/template.doc), [Latex](docs/ieeetran.zip), extended to *June 15th*.
 - The purpose of the concept proposal is to ensure all teams understand the rules and complete team forming.
 
 ## [News #6] MagNet Tutorial Series
