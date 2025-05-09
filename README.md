@@ -13,7 +13,7 @@
 - Time: Every Friday, 9am-10am EST, from May 16th to June 6th (4 times).
 - [SignUp](https://princeton.zoom.us/webinar/register/WN_uGYhxr9qTDe6Sjzm8qzQ9w)
 
-## [News #5] Participating Teams (36 Teams Confirmed)
+## [News #5] Participating Teams (37 Teams Confirmed)
 - Aalborg University (Zhao), Denmark 🇩🇰
 - Aalborg University (Davari), Denmark 🇩🇰
 - Eindhoven University of Technology, Netherland 🇳🇱
@@ -32,6 +32,7 @@
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰
 - Seigen & Paderborn, Germany 🇩🇪
 - University of Kassel, Germany 🇩🇪
+- TU Munich & FU Santa Catarina, Germany & Brazil 🇩🇪 🇧🇷
 - Leeds & Wuerth Elektronik, UK & Germany 🇬🇧 🇩🇪
 - University of Bristol, UK 🇬🇧
 - University of Cambridge, UK 🇬🇧
