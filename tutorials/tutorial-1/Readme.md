@@ -2,7 +2,7 @@
 
 This folder hosts the Training and Testing example code, data, and tools needed for next-step autoregressive prediction in MagNet Challenge 2. We recommend Google Colab for testing these files. A regular (free) Google Colab account should be able to rapidly perform the demo training.
 
-## Let us know if you need help to get access to Google Colab Pro. We may be able to cover the cost of Google Colab Pro if needed. ##
+## Let us know if you need help to get access to Google Colab Pro. We may be able to cover the cost of a few Google Colab Pro accounts, if needed. ##
 
 Currently 7 files are included:
 
