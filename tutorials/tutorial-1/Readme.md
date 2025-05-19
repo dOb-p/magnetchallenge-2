@@ -14,4 +14,4 @@ Currently 7 files are included:
 - Model_LSTM_Princeton.sd: A high performance NN model previously trained.
 - Normalization_Params.json: Normalization parameters needed for training and testing. 
 
-The slides for Tutorial 1 are included in the PDF file.
+More information about Tutorial 1 can be found in the PDF doc.
