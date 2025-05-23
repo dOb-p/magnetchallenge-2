@@ -12,7 +12,7 @@
 - Zoom meetings to introduce baseline models for training and testing. [Sign Up](https://princeton.zoom.us/webinar/register/WN_uGYhxr9qTDe6Sjzm8qzQ9w)
 - Time: Every Friday, 9am-10am EST, from May 16th to June 6th (4 times).
 - Tutorial 1 (May 16): Data Driven Methods by [Shukai Wang](https://github.com/PaulShuk). [Video](https://www.youtube.com/watch?v=_EHfbElroiI), [Slides](tutorials/tutorial-1/Slides-Tutorial-1.pdf), [Code](tutorials/tutorial-1)
-- Tutorial 2 (May 23): Analytical Methods by [Thomas Guillod](https://github.com/otvam).
+- Tutorial 2 (May 23): Analytical Methods by [Thomas Guillod](https://github.com/otvam). [Code](https://github.com/otvam/magnetic_ode_models)
 - Tutorial 3 (May 30): Testing and Evaluation by Hyukjae Kwon.
 - Tutorial 4 (June 6): Q&A and Brainstorm Sessions.
 
