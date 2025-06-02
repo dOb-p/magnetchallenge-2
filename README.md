@@ -16,7 +16,7 @@
 - Tutorial 3 (May 30): Testing and Evaluation by @ [Shukai Wang](https://github.com/PaulShuk). [Video](https://www.youtube.com/watch?v=7nNlPNOmJEA), [Slides], [Code](https://github.com/PaulShuk/MagNetX/tree/main/Tutorial/Tutorial_3)
 - Tutorial 4 (June 6): Q&A and Brainstorm Sessions.
 
-## [News #5] Participating Teams (37 Teams Confirmed)
+## [News #5] Participating Teams (38 Teams Confirmed)
 - Aalborg University (Zhao), Denmark 🇩🇰
 - Aalborg University (Davari), Denmark 🇩🇰
 - Eindhoven University of Technology, Netherland 🇳🇱
@@ -30,6 +30,7 @@
 - Fujian University of Technology, China 🇨🇳
 - Southeast University (Cheng), China 🇨🇳
 - Southeast University (Xu), China 🇨🇳
+- Tsinghua University, China 🇨🇳
 - Hefei University of Technology, China 🇨🇳
 - Huazhong University of Science and Technology, China 🇨🇳
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰
