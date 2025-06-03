@@ -16,7 +16,7 @@
 - Tutorial 3 (May 30): Testing and Evaluation by @ [Shukai Wang](https://github.com/PaulShuk). [Video](https://www.youtube.com/watch?v=7nNlPNOmJEA), [Slides](tutorials/tutorial-3/Slides-Tutorial-3.pdf), [Code](tutorials/tutorial-3)
 - Tutorial 4 (June 6): Q&A and Brainstorm Sessions by @ [Minjie Chen](https://github.com/minjiechen).
 
-## [News #5] 39 Teams Confirmed, ✅:Concept Paper Received
+## [News #5] 40 Teams Confirmed, ✅:Concept Paper Received
 - Aalborg University (Zhao), Denmark 🇩🇰
 - Aalborg University (Davari), Denmark 🇩🇰
 - Eindhoven University of Technology, Netherland 🇳🇱
@@ -39,6 +39,7 @@
 - University of Kassel, Germany 🇩🇪
 - TU Munich & FU Santa Catarina, Germany & Brazil 🇩🇪 🇧🇷
 - Leeds & Wuerth Elektronik, UK & Germany 🇬🇧 🇩🇪 ✅
+- KU Leuven, Belgium, 🇧🇪 ✅
 - University of Bristol, UK 🇬🇧
 - University of Cambridge, UK 🇬🇧
 - Politecnico di Torino, Italy 🇮🇹
