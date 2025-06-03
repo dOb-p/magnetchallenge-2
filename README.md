@@ -23,21 +23,21 @@
 - Tianjin University, China 🇨🇳
 - Xi'an Jiaotong University (Zhu), China 🇨🇳
 - Xi'an Jiaotong University (Wei), China 🇨🇳
-- Xi'an Jiaotong University (Chen), China 🇨🇳
+- Xi'an Jiaotong University (Chen), China - Proposal Received 🇨🇳
 - Fuzhou University, China 🇨🇳
-- Hangzhou Dianzi University, China 🇨🇳
+- Hangzhou Dianzi University, China - Proposal Received 🇨🇳
 - Xiamen University of Technology, China 🇨🇳
 - Fujian University of Technology, China 🇨🇳
 - Southeast University (Cheng), China 🇨🇳
-- Southeast University (Xu), China 🇨🇳
+- Southeast University (Xu), China - Proposal Received 🇨🇳
 - Tsinghua University, China 🇨🇳
 - Hefei University of Technology, China 🇨🇳
-- Huazhong University of Science and Technology, China 🇨🇳
+- Huazhong University of Science and Technology, China - Proposal Received 🇨🇳
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰
-- Seigen & Paderborn, Germany 🇩🇪
+- Seigen & Paderborn, Germany - Proposal Received 🇩🇪
 - University of Kassel, Germany 🇩🇪
 - TU Munich & FU Santa Catarina, Germany & Brazil 🇩🇪 🇧🇷
-- Leeds & Wuerth Elektronik, UK & Germany 🇬🇧 🇩🇪
+- Leeds & Wuerth Elektronik, UK & Germany - Proposal Received 🇬🇧 🇩🇪
 - University of Bristol, UK 🇬🇧
 - University of Cambridge, UK 🇬🇧
 - Politecnico di Torino, Italy 🇮🇹
