@@ -55,19 +55,19 @@
 - Silicon Austria Labs, Austria 🇦🇹
 - Arizona State University, USA 🇺🇸
 - University of Missouri Columbia, USA 🇺🇸
-- Georgia Institute of Technology, USA 🇺🇸
+- Georgia Institute of Technology, USA 🇺🇸 ✅
 - Princeton University, USA 🇺🇸 (not competing)
 - Dartmouth College, USA 🇺🇸 (not competing)
 
 ## [News #4] Sponsors Confirmed
-- Nvidia
-- Texas Instruments
-- Wurth Electronik
-- ITG Electronics
-- pSemi
-- TSMC
-- IEEE Power Electronics Society
-- Princeton University
+- Nvidia (Top GPUs)
+- Texas Instruments ($5000)
+- Wurth Electronik ($5000)
+- ITG Electronics ($5000)
+- pSemi ($5000)
+- TSMC ($5000)
+- IEEE Power Electronics Society ($35000)
+- Princeton University (as much as needed!)
 
 ## [News #3] MagNet Challenge 2 - Training Data Release
 Training data for 10 materials (the same 10 materials as MagNet Challenge 1):
