@@ -13,7 +13,7 @@
 - Time: Every Friday, 9am-10am EST, from May 16th to June 6th (4 times).
 - Tutorial 1 (May 16): Data Driven Methods @ [Shukai Wang](https://github.com/PaulShuk). [Video](https://www.youtube.com/watch?v=_EHfbElroiI), [Slides](tutorials/tutorial-1/Slides-Tutorial-1.pdf), [Code](tutorials/tutorial-1)
 - Tutorial 2 (May 23): Analytical Methods @ [Thomas Guillod](https://github.com/otvam). [Video](https://www.youtube.com/watch?v=EwesJTd0ZfM), [Slides](tutorials/tutorial-2/Slides-Tutorial-2.pdf), [Code](tutorials/tutorial-2)
-- Tutorial 3 (May 30): Testing and Evaluation by @ [Shukai Wang](https://github.com/PaulShuk). [Video](https://www.youtube.com/watch?v=7nNlPNOmJEA), [Slides](tutorials/tutorial-3/Slides-Tutorial-3.pdf), [Code](tutorials/tutorial-3)
+- Tutorial 3 (May 30): Testing and Evaluation by @ [Hyukjae Kwon](https://github.com/hk1715). [Video](https://www.youtube.com/watch?v=7nNlPNOmJEA), [Slides](tutorials/tutorial-3/Slides-Tutorial-3.pdf), [Code](tutorials/tutorial-3)
 - Tutorial 4 (June 6): Q&A and Brainstorm Sessions by @ [Minjie Chen](https://github.com/minjiechen). [Video](https://www.youtube.com/watch?v=63Z31vTarik), [Slides](tutorials/tutorial-4/Slides-Tutorial-4.pdf)
 
 ## [News #5] 40 Teams Confirmed, ✅:Concept Paper Received
