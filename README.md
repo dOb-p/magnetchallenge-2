@@ -8,6 +8,9 @@
 - 2-Page concept proposal due June 1st [PDF](docs/template.pdf), [DOC](docs/template.doc), [Latex](docs/ieeetran.zip), extended to *June 15th*.
 - The purpose of the concept proposal is to ensure all teams understand the rules and complete team forming.
 
+## [News #7] Useful Resources
+- [Awesome Time Series Papers](https://github.com/TSCenter/awesome-time-series-papers)
+
 ## [News #6] MagNet Tutorial Series
 - Zoom meetings to introduce baseline models for training and testing. [Sign Up](https://princeton.zoom.us/webinar/register/WN_uGYhxr9qTDe6Sjzm8qzQ9w)
 - Time: Every Friday, 9am-10am EST, from May 16th to June 6th (4 times).
