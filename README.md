@@ -10,6 +10,8 @@
 
 ## [News #7] Useful Resources
 - [Awesome Time Series Papers](https://github.com/TSCenter/awesome-time-series-papers)
+- [MagNet Challenge 2 Data](https://www.dropbox.com/scl/fo/o07x7fa6d5elev19pzd1w/AISuBEWf8LQVszFeoaTlqY4?rlkey=8ec7mqukfr9no61h193zb4qdb&dl=0)
+- [MagNet Challenge 1 Data](https://www.princeton.edu/~minjie/magnet.html)
 
 ## [News #6] MagNet Tutorial Series
 - Zoom meetings to introduce baseline models for training and testing. [Sign Up](https://princeton.zoom.us/webinar/register/WN_uGYhxr9qTDe6Sjzm8qzQ9w)
