@@ -53,7 +53,7 @@
 - Nagoya Institute of Technology, Japan 🇯🇵
 - Nanyang Technological University (Yang), Singapore 🇸🇬
 - Nanyang Technological University (Tang), Singapore 🇸🇬
-- University of Sydney, Australia 🇦🇺
+- University of Sydney, Australia 🇦🇺 ✅
 - National Institute of Technology Calicut (Mohan), India 🇮🇳
 - National Institute of Technology Calicut (Muhammed), India 🇮🇳
 - Indian Institute of Technology Dharwad, India 🇮🇳
