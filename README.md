@@ -22,7 +22,7 @@
 - Tutorial 4 (June 6): Q&A and Brainstorm Sessions by @ [Minjie Chen](https://github.com/minjiechen). [Video](https://www.youtube.com/watch?v=63Z31vTarik), [Slides](tutorials/tutorial-4/Slides-Tutorial-4.pdf)
 
 ## [News #5] 40 Teams Confirmed, ✅:Concept Paper Received
-- Aalborg University (Zhao), Denmark 🇩🇰
+- Aalborg University (Zhao), Denmark 🇩🇰 ✅
 - Aalborg University (Davari), Denmark 🇩🇰
 - Eindhoven University of Technology, Netherland 🇳🇱
 - Tianjin University, China 🇨🇳
