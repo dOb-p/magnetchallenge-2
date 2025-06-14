@@ -25,7 +25,7 @@
 - Aalborg University (Zhao), Denmark 🇩🇰 ✅
 - Aalborg University (Davari), Denmark 🇩🇰
 - Eindhoven University of Technology, Netherland 🇳🇱
-- Tianjin University, China 🇨🇳
+- Tianjin University, China 🇨🇳 ✅
 - Xi'an Jiaotong University (Zhu), China 🇨🇳
 - Xi'an Jiaotong University (Wei), China 🇨🇳
 - Xi'an Jiaotong University (Chen), China 🇨🇳 ✅
@@ -58,7 +58,7 @@
 - National Institute of Technology Calicut (Muhammed), India 🇮🇳
 - Indian Institute of Technology Dharwad, India 🇮🇳
 - Silicon Austria Labs, Austria 🇦🇹
-- Arizona State University, USA 🇺🇸
+- Arizona State University, USA 🇺🇸 ✅
 - University of Missouri Columbia, USA 🇺🇸
 - Georgia Institute of Technology, USA 🇺🇸 ✅
 - Princeton University, USA 🇺🇸 (not competing)
