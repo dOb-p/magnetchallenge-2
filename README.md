@@ -8,6 +8,9 @@
 - 2-Page concept proposal due June 1st [PDF](docs/template.pdf), [DOC](docs/template.doc), [Latex](docs/ieeetran.zip), extended to *June 15th*.
 - The purpose of the concept proposal is to ensure all teams understand the rules and complete team forming.
 
+## [News #8] MagNet Tutorial 5
+- Tutorial 5 (September 12 10am EST): [Sign Up](https://princeton.zoom.us/webinar/register/WN_w2vOUlH0RPO6j7VFMT7VLA)
+
 ## [News #7] Useful Resources
 - [Awesome Time Series Papers](https://github.com/TSCenter/awesome-time-series-papers)
 - [MagNet Challenge 2 Data](https://www.dropbox.com/scl/fo/o07x7fa6d5elev19pzd1w/AISuBEWf8LQVszFeoaTlqY4?rlkey=8ec7mqukfr9no61h193zb4qdb&dl=0)
