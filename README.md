@@ -130,9 +130,9 @@ Please refer to the [Handbook](docs/Handbook-2025.pdf) and [Slides](docs/Slides-
 - 06-01-2025 2-Page Concept Proposal Due [PDF](docs/template.pdf) [DOC](docs/template.doc) [Latex](docs/ieeetran.zip)
 - 07-01-2025 Notification of Acceptance
 - 08-01-2025 Expert Feedback on the Concept Proposal
-- 11-01-2025 Preliminary Submission Due
-- 11-01-2025 Testing Data for 5 New Materials Available
-- 12-24-2025 Final Submission Due
+- 11-15-2025 Preliminary Submission Due (postponed to 11-15)
+- 11-15-2025 Testing Data for 5 New Materials Available (postponed to 11-15)
+- 01-15-2026 Final Submission Due (postponed to 01-15)
 - 03-01-2026 Winners Selected
 
 ## Evaluation
