@@ -84,7 +84,7 @@ end
 
 %%  Save data based on known : unknown (prediction) ratios
 
-for seq_ratio = 0.1 : 0.4 : 0.9    % The ratios of known:unknown information in a segment: 0.1 means 90% known predicting 10% unknown.
+for seq_ratio = 0.1 : 0.4 : 0.9    % The ratios of known:unknown information in a segment: 0.1 means 10% known predicting 90% unknown.
    
     past_end_idx = Test_length * seq_ratio;     
     
