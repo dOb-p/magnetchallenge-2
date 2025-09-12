@@ -9,7 +9,7 @@
 - The purpose of the concept proposal is to ensure all teams understand the rules and complete team forming.
 
 ## [News #8] MagNet Tutorial 5
-- Tutorial 5 (September 12 10am EST): [Sign Up](https://princeton.zoom.us/webinar/register/WN_w2vOUlH0RPO6j7VFMT7VLA)
+- Tutorial 5 (September 12 10am EST): [Video](https://www.youtube.com/watch?v=-CtfTw9098c), [Slides](Pretest/Webinar-5-2025.pdf)
 - Release new benchmark models, examples, and testing results
 - MagNet Challenge 2025 November Preliminary Test Data Released [Pretest](Pretest)
 
