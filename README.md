@@ -11,7 +11,7 @@
 ## [News #8] MagNet Tutorial 5
 - Tutorial 5 (September 12 10am EST): [Sign Up](https://princeton.zoom.us/webinar/register/WN_w2vOUlH0RPO6j7VFMT7VLA)
 - Release new benchmark models, examples, and testing results
-- MagNet Challenge 2025 November Preliminary Test Data Released [check Pretest]
+- MagNet Challenge 2025 November Preliminary Test Data Released [Pretest](Pretest)
 
 ## [News #7] Useful Resources
 - [Awesome Time Series Papers](https://github.com/TSCenter/awesome-time-series-papers)
