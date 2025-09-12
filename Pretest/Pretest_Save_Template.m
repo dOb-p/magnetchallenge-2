@@ -22,11 +22,6 @@ Database = 'Transient_Database'; Material = '3C90'; Shape = 'TX-25-15-10'; Datas
 %Database = 'Transient_Database'; Material = 'N27'; Shape = 'R20.0X10.0X7.0'; Dataset = 1;
 %Database = 'Transient_Database'; Material = 'N30'; Shape = '22.1X13.7X6.35'; Dataset = 1;
 %Database = 'Transient_Database'; Material = 'N49'; Shape = 'R16.0X9.6X6.3'; Dataset = 1;
-%Database = 'Transient_Database'; Material = '3C92'; Shape = 'TX-25-25-12'; Dataset = 1;
-%Database = 'Transient_Database'; Material = '3C95'; Shape = 'TX-25-25-12'; Dataset = 1;
-%Database = 'Transient_Database'; Material = 'T37'; Shape = 'TX25x14.8x10'; Dataset = 1;
-%Database = 'Transient_Database'; Material = 'FEC007'; Shape = 'TX-25-15-10'; Dataset = 1;
-%Database = 'Transient_Database'; Material = 'FEC014'; Shape = 'TX-25-15-10'; Dataset = 1;
 
 path_root = [pwd, '\', Database, '\', Material, '\', Shape, '\Dataset', num2str(Dataset)]; % Path of this file
 path_root_save = [pwd, '\MLTran\Challenge_Models\', Material]; 
