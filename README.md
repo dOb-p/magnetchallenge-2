@@ -1,7 +1,7 @@
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
-## The MagNet community mourns the passing of Haoran Li, a wonderful person and a key contributor of the MagNet project.
+## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor of the MagNet project.
 
 ## IEEE PELS International Challenge on Design Methodologies [Prize Pool $60,000]
 - This site provides the latest information about the MagNet Challenge 2.
