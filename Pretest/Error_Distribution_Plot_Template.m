@@ -76,7 +76,7 @@ H_past =  H_past';
 
 for n = 1 : ttl_segs  % Loop through each prediction length data seperately
 
-    B = B_true((n-1)*length(H_true)/ttl_segs + 1 : n*length(H_true)/ttl_segs, 1 : length(H_true(1 , :))*ratios(n));
+    B = B_true((n-1)*length(H_true)/ttl_segs + 1 : n*length(H_true)/ttl_segs,  length(H_true(1 , :))*(1 - ratios(n)) + 1 : end);
     prediction = pred((n-1)*length(H_true)/ttl_segs + 1 : n*length(H_true)/ttl_segs, 1 : length(H_true(1 , :))*ratios(n));
     measurement = meas((n-1)*length(H_true)/ttl_segs + 1 : n*length(H_true)/ttl_segs, 1 : length(H_true(1 , :))*ratios(n));
     Core_loss = Loss((n-1)*length(H_true)/ttl_segs + 1 : n*length(H_true)/ttl_segs);
@@ -106,7 +106,7 @@ for n = 1 : ttl_segs  % Loop through each prediction length data seperately
         y1 = 0.02;
         y = linspace(0,y1,50);
         plot(mean(prctile(abs(rmse_pm), 95))*ones(size(y)),y,'--','Color',red,'LineWidth',2);
-        text(prctile(rmse_pm,95),y1,['95-Prct=',num2str(prctile(rmse_pm,95),4),'\%'],'Color',red);
+        text(prctile(abs(rmse_pm),95),y1,['95-Prct=',num2str(prctile(rmse_pm,95),4),'\%'],'Color',red);
 
         plot(mean(abs(rmse_pm))*ones(size(y)),y,'--','Color',red,'LineWidth',2);
         text(mean(abs(rmse_pm)),y1+0.02,['Ave Error =',num2str(mean(abs(rmse_pm)),4),'\%'],'Color',red);
@@ -118,7 +118,7 @@ for n = 1 : ttl_segs  % Loop through each prediction length data seperately
         ylabel('Ratio of Data Points'); 
         title(['Sequence Relative Error for ', Material])
         subtitle(['Avg=',num2str(mean(abs(rmse_pm)),4),'\%, ', ...
-            '95-Prct=',num2str(prctile(rmse_pm,95),3),'\%, ', ...
+            '95-Prct=',num2str(prctile(abs(rmse_pm),95),3),'\%, ', ...
             'Max=',num2str(max(abs(rmse_pm)),4),'\%'], ...
             'FontSize',18)
 
@@ -127,8 +127,8 @@ for n = 1 : ttl_segs  % Loop through each prediction length data seperately
         histogram(abs(ene_error), 100, 'FaceColor', blue, 'FaceAlpha',1,'Normalization','probability'); hold on;
         y1 = 0.03;
         y = linspace(0,y1,50);
-        plot(mean(prctile(abs(ene_error), 95))*ones(size(y)),y,'--','Color',red,'LineWidth',2);
-        text(prctile(ene_error,95),y1,['95-Prct=',num2str(prctile(ene_error,95),4),'\%'],'Color',red);
+        plot(prctile(abs(ene_error), 95)*ones(size(y)),y,'--','Color',red,'LineWidth',2);
+        text(prctile(abs(ene_error),95),y1,['95-Prct=',num2str(prctile(ene_error,95),4),'\%'],'Color',red);
         plot(mean(abs(ene_error))*ones(size(y)),y,'--','Color',red,'LineWidth',2);
         text(mean(abs(ene_error)),y1+0.02,['Ave Error =',num2str(mean(abs(ene_error)),4),'\%'],'Color',red);
 
@@ -139,7 +139,7 @@ for n = 1 : ttl_segs  % Loop through each prediction length data seperately
         set(gcf,'Position',[850,550,780,430])
         title(['Total Energy Normalized Relative Error for ', Material])
         subtitle(['Avg=',num2str(mean(abs(ene_error)),4),'\%, ', ...
-            '95-Prct=',num2str(prctile(ene_error,95),3),'\%, ', ...
+            '95-Prct=',num2str(prctile(abs(ene_error),95),3),'\%, ', ...
             'Max=',num2str(max(abs(ene_error)),4),'\%'], ...
             'FontSize',18)
  
