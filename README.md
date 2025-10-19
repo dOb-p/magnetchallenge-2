@@ -3,6 +3,12 @@
 
 ## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project.
 
+## [News #9] MagNet Tutorial 6
+- Tutorial 6 (October 30 10am EST): [Zoom](https://princeton.zoom.us/webinar/register/WN__TWCXMfOQZSooVmE6_2PFg)
+- Present final testing data and rules
+- Final testing data releasing date: November 15th, 2025.
+- Final testing result due date: January 15th, 2026.
+
 ## IEEE PELS International Challenge on Design Methodologies [Prize Pool $60,000]
 - This site provides the latest information about the MagNet Challenge 2.
 - Please contact pelsmagnet@gmail.com for all purposes.
