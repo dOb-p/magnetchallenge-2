@@ -1,7 +1,7 @@
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
-## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project.
+## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project. Haoran’s passion, creativity, and kindness will continue to influence our community. Our hearts and thoughts are with his family, friends, and colleagues across the international power electronics community.
 
 ## [News #9] MagNet Tutorial 6
 - Tutorial 6 (October 30 10am EST): [Zoom](https://princeton.zoom.us/webinar/register/WN__TWCXMfOQZSooVmE6_2PFg)
