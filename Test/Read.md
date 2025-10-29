@@ -1,6 +1,6 @@
 ## MagNet Challenge 2026 January Final Test 
 
-November 15th, 2025 – Release of the final evaluation dataset
+** November 15th, 2025 ** – Release of the final evaluation dataset
 
 On January 15th, 2026, the final test results are due for 5 new materials (A–E):
 
@@ -13,11 +13,11 @@ On January 15th, 2026, the final test results are due for 5 new materials (A–E
 We will use sequence relative error and energy relative error to evaluate your models.
 
 
-January 31st, 2026 – Final report submission
+** January 31st, 2026 ** – Final report submission
 
 - Submit a 4-page report in IEEE TPEL PDF format, briefly describing your key methods and concepts.
 
 
-February 2026 – Model Validation and Ranking
+** February 2026 ** – Model Validation and Ranking
 
 - The submitted models will be validated and ranked based on their performance.
