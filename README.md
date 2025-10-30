@@ -34,7 +34,7 @@
 - Tutorial 3 (May 30): Testing and Evaluation by @ [Hyukjae Kwon](https://github.com/hk1715). [Video](https://www.youtube.com/watch?v=7nNlPNOmJEA), [Slides](tutorials/tutorial-3/Slides-Tutorial-3.pdf), [Code](tutorials/tutorial-3)
 - Tutorial 4 (June 6): Q&A and Brainstorm Sessions by @ [Minjie Chen](https://github.com/minjiechen). [Video](https://www.youtube.com/watch?v=63Z31vTarik), [Slides](tutorials/tutorial-4/Slides-Tutorial-4.pdf)
 - Tutorial 5 (September 12): New Models and Discussion by @ [Shukai Wang](https://github.com/PaulShuk). [Video](https://www.youtube.com/watch?v=-CtfTw9098c), [Slides](Pretest/Webinar-5-2025.pdf)
-
+- Tutorial 6 (October 30): Final Evaluation @ [Hyukjae Kwon](https://github.com/hk1715). [Video](https://www.youtube.com/watch?v=mANLTyKxSXs), [Slides](Pretest/Webinar-6-2025.pdf)
 
 ## [News #5] 40 Teams Confirmed, ✅:Concept Paper Received
 - Aalborg University (Zhao), Denmark 🇩🇰 ✅
