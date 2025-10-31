@@ -7,7 +7,9 @@
 - Tutorial 6 (October 30 10am EST): [Video](https://www.youtube.com/watch?v=mANLTyKxSXs), [Slides](tutorials/tutorial-6/Webinar-6-2025.pdf)
 - Present final testing data and rules
 - Final testing data releasing date: November 15th, 2025
-- Final testing result due date: January 15th, 2026
+- Optional pre-test evaluation due: November 15th, 2025
+- Final testing result due: January 15th, 2026
+- Final 4-page report due: January 31st, 2026
 
 ## IEEE PELS International Challenge on Design Methodologies [Prize Pool $60,000]
 - This site provides the latest information about the MagNet Challenge 2.
