@@ -4,7 +4,7 @@
 ## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project. Haoran’s passion, creativity, and kindness will continue to influence our community. With the consent of his family and IEEE PELS, one of the MagNet Challenge 2 awards will be named in his honor.
 
 ## [News #9] MagNet Tutorial 6
-- Tutorial 6 (October 30 10am EST): [Video](https://www.youtube.com/watch?v=mANLTyKxSXs), [Slides](Pretest/Webinar-6-2025.pdf)
+- Tutorial 6 (October 30 10am EST): [Video](https://www.youtube.com/watch?v=mANLTyKxSXs), [Slides](tutorials/tutorial-6/Webinar-6-2025.pdf)
 - Present final testing data and rules
 - Final testing data releasing date: November 15th, 2025
 - Final testing result due date: January 15th, 2026
