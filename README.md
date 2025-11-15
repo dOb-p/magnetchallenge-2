@@ -15,7 +15,7 @@ Training and testing data for 5 new materials [A, B, C, D, E]:
 - Final testing data releasing date: November 15th, 2025
 - Optional pre-test evaluation due: November 15th, 2025
 - Final testing result due: January 15th, 2026
-- Final 4-page report due: January 31st, 2026
+- Final 4-page report due: January 30th, 2026
 
 ## IEEE PELS International Challenge on Design Methodologies [Prize Pool $60,000]
 - This site provides the latest information about the MagNet Challenge 2.
