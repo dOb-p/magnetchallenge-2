@@ -4,7 +4,7 @@
 ## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project. Haoran’s passion, creativity, and kindness will continue to influence our community. With the consent of his family and IEEE PELS, one of the MagNet Challenge 2 awards will be named in his honor.
 
 ## [News #10] MagNet Challenge 2 - Final Data Released
-Training data for 5 new materials [A, B, C, D, E]:
+Training and testing data for 5 new materials [A, B, C, D, E]:
 - [MagNet Challenge 2 Data](https://www.dropbox.com/scl/fo/o07x7fa6d5elev19pzd1w/AISuBEWf8LQVszFeoaTlqY4?rlkey=8ec7mqukfr9no61h193zb4qdb&dl=0)
 - Final Submission Due January 15th (CSV Results and Num. of Parameters)
 - 4-Page Report Due January 30th (Methods and Verification Code)
